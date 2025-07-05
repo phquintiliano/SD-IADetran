@@ -1,60 +1,26 @@
-const express = require("express");
 const axios = require("axios");
-const app = express();
-const PORT = 3000;
+const { Telegraf } = require("telegraf");
+require("dotenv").config();
 
-app.use(express.json());
+const TOKEN = process.env.TELEGRAM_TOKEN;
+const bot = new Telegraf(TOKEN);
 
-app.get("/questionarios", (req, res) => {
-  res.json({
-    perguntas: [
-      {
-        id: 1,
-        enunciado: "Qual a velocidade máxima em vias urbanas?",
-        alternativas: ["30km/h", "50km/h", "80km/h"],
-        resposta: 1,
-      },
-    ],
-  });
-});
+bot.start((ctx) => ctx.reply(`Fala aí, ${ctx.from.first_name}! 👋`));
+bot.help((ctx) => ctx.reply("Me mande uma mensagem e eu respondo!"));
 
-app.post("/responder", (req, res) => {
-  const { respostas } = req.body;
-  res.json({ acertos: respostas.filter((r) => r === 1).length });
-});
-
-app.post("/duvida", async (req, res) => {
+bot.command("cotacao", async (ctx) => {
   try {
-    const { pergunta } = req.body;
-
-    if (!pergunta) {
-      return res.status(400).json({ erro: "Campo 'pergunta' é obrigatório." });
-    }
-
-    const resposta = await axios.post("http://ia_generativa:5001/responder", {
-      pergunta,
-    });
-
-    res.json({ resposta: resposta.data.resposta });
+    const response = await axios.get(
+      "https://economia.awesomeapi.com.br/json/last/USD-BRL"
+    );
+    const valor = response.data.USDBRL.bid;
+    await ctx.reply(`💵 Cotação do Dólar: R$ ${valor}`);
   } catch (error) {
-    console.error("Erro ao consultar IA generativa:", error.message);
-    res.status(500).json({ erro: "Erro interno ao processar a dúvida." });
+    await ctx.reply("😬 Erro ao buscar cotação. Tenta de novo mais tarde!");
+    console.error(error);
   }
 });
 
-app.get("/duvida", async (req, res) => {
-  const resposta = await axios.post("http://ia_generativa:5001/responder", {
-    pergunta: {},
-  });
-  res.json({ resposta: resposta.data.resposta });
-});
+bot.on("text", (ctx) => ctx.reply(`Você disse: ${ctx.message.text}`));
 
-app.post("/voz", async (req, res) => {
-  const { audioBase64 } = req.body;
-  const transcricao = await axios.post("http://ia_audio:5002/transcrever", {
-    audioBase64,
-  });
-  res.json({ texto: transcricao.data.texto });
-});
-
-app.listen(PORT, () => console.log(`Backend rodando na porta ${PORT}`));
+bot.launch();
