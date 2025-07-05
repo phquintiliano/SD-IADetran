@@ -1,0 +1,33 @@
+version: "3.8"
+
+services:
+  backend:
+    build: ./backend
+    container_name: backend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - ia_generativa
+      - ia_audio
+    networks:
+      - sd-net
+
+  ia_generativa:
+    build: ./ia-generativa
+    container_name: ia_generativa
+    ports:
+      - "5001:5001"
+    networks:
+      - sd-net
+
+  ia_audio:
+    build: ./ia-audio
+    container_name: ia_audio
+    ports:
+      - "5002:5002"
+    networks:
+      - sd-net
+
+networks:
+  sd-net:
+    driver: bridge
