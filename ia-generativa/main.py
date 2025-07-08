@@ -7,10 +7,11 @@ qa_pipeline = pipeline("text-generation", model="distilgpt2")
 
 @app.route("/responder", methods=["POST"])
 def responder():
-    return jsonify({"resposta": "resposta"})
+    print("Requisição recebida")
     data = request.get_json()
     pergunta = data.get("pergunta", "")
-    resposta = qa_pipeline(pergunta, max_length=100, num_return_sequences=1)[0][
+    print(f"Pergunta recebida: {pergunta}")
+    resposta = qa_pipeline(pergunta, max_length=120, num_return_sequences=1)[0][
         "generated_text"
     ]
     return jsonify({"resposta": resposta})
