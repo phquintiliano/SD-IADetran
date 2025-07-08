@@ -1,60 +1,473 @@
-Pergunta: Quais são deveres do condutor defensivo? Resposta: Usar sempre o cinto de segurança e os demais equipamentos obrigatórios, manter o automóvel sempre em boas condições de funcionamento e abastecido de combustível e Conhecer o automóvel que está dirigindo e saber usá-lo corretamente.
-Pergunta: O condutor deve reduzir a velocidade ao visualizar a placa de advertência A-1b pois a frente? Resposta: A via apresenta curva acentuada à direita, o que favorece a ocorrência de acidentes.
-Pergunta: São condições próprias das estradas de terra que representam risco e podem contribuir para gerar acidentes: Resposta: Piso irregular e pedras que podem ser lançadas pelos pneus.
-Pergunta: As placas de identificação de atrativo turístico têm por objetivo: Resposta: indicar e orientar os usuários sobre os pontos turísticos da região.
-Pergunta: A baixa calibragem dos pneus: Resposta: reduz sua vida útil.
-Pergunta: Qual atitude o condutor defensivo deve ter quando o sinal luminoso "abrir" para seu veículo e ainda existirem pedestres efetuando a travessia? Resposta: aguardar que concluam a travessia.
-Pergunta: Entre outros fatores, a durabilidade dos pneus também é determinada por: Resposta: conferir regularmente o alinhamento e o balanceamento das rodas.
-Pergunta: A placa de advertência A-12, , alerta o condutor para uma situação de risco na via, relacionada a Resposta: intersecção em círculo - rotatória.
-Pergunta: A falta de equipamentos obrigatórios do veículo representa uma condição adversa, durante a prestação de auxílio em um acidente de trânsito. O equipamento necessário nessa situação é: Resposta:  triângulo de segurança.
-Pergunta: Assinale a alternativa correta: Ao regular a velocidade, o condutor deverá observar constantemente as condições físicas da via, do veículo e da carga, as condições meteorológicas e a intensidade do trânsito, obedecendo aos limites máximos de velocidade estabelecidos para a via, além de: I - não obstruir a marcha normal dos demais veículos em circulação sem causa justificada, transitando a uma velocidade anormalmente reduzida; II - sempre que quiser diminuir a velocidade de seu veículo deverá antes certificar-se de que pode fazê-lo sem risco nem inconvenientes para os outros condutores, a não ser que haja perigo iminente; III - indicar, de forma clara, com a antecedência necessária e a sinalização devida, a manobra de redução de velocidade. Resposta: Todas estão corretas.
-Pergunta: O freio, do tipo ABS, torna mais segura a frenagem, pois: Resposta: evita que a roda bloqueie e o veículo derrape.
-Pergunta: Diante um acidente envolvendo motocicleta, um motociclista apresenta hemorragia na região do peito. A atitude mais assertiva do condutor, enquanto aguarda o socorro, é: Resposta: Diante um acidente envolvendo motocicleta, um motociclista apresenta hemorragia na região do peito. A atitude mais assertiva do condutor, enquanto aguarda o socorro, é:.
-Pergunta: Estacionar em desacordo com as posições estabelecidas no Código de Trânsito Brasileiro tem como penalidade (CTB Art. 181, inciso IV): Resposta: multa.
-Pergunta: Quanto a placa de regulamentação R-6c , qual deve ser a ação certa do motorista? Resposta: Quanto a placa de regulamentação R-6c , qual deve ser a ação certa do motorista?.
-Pergunta: Os fatores que interferem positivamente para que o trânsito seja humano e seguro são: Resposta: educação, habilidades, atenção, cooperação e solidariedade.
-Pergunta: A visibilidade do condutor, que exige sua redobrada atenção, é mais reduzida ao dirigir: Resposta: à noite, com chuva, garoa ou neblina.
-Pergunta: Em um veículo automotor, a redução do atrito entre as peças internas do motor, aumentando seu rendimento, é proporcionada pelo: Resposta: óleo do motor.
-Pergunta: Conforme art. 181, CTB, estacionar o veículo nas esquinas e a menos de cinco metros do bordo do alinhamento da via transversal, incorre em infração: Resposta: média.
-Pergunta: Com o objetivo de evitar acidentes, a placa de advertência A-11b alerta o condutor sobre: Resposta: a junção com duas vias laterais, a primeira à direita, devido à possibilidade de acesso de veículos na pista.
-Pergunta: As placas educativas têm como função: Resposta: orientar os usuários da via quanto ao seu comportamento adequado e seguro no trânsito, podendo conter mensagens que reforcem normas gerais de circulação e conduta.
-Pergunta: Quanto aos efeitos da poluição sonora. O excesso de ruídos, na medida de intensidade pode ocasionar múltiplos problemas na pessoa, os quais assim podem ser relacionados: Resposta: Dores de cabeça.
-Pergunta: De acordo com o Código de Trânsito Brasileiro, comete uma infração de trânsito o condutor que: Resposta: desrespeitar qualquer preceito do CTB, a legislação complementar e as Resoluções do Contran.
-Pergunta: Com a visualização da placa de regulamentação R-7 na via, o condutor deve entender que é proibida a: Resposta: ultrapassagem.
-Pergunta: Em um veículo automotor, fazem parte do sistema de lubricação do motor, exceto: Resposta: Filtro de Ar.
-Pergunta: Os sulcos dos pneus, cuja profundidade mínima é de 1,6 mm, existem para: Resposta: escoar a água em pista molhada e manter o atrito com o pavimento.
-Pergunta: O sistema que tem por função ligar e desligar a força motriz do motor da parte restante da transmissão é o: Resposta: embreagem.
-Pergunta: Para conversão à esquerda, nas rodovias com acostamento e sem local apropriado para conversão, o condutor : Resposta: acessar o acostamento à direita, parar o veículo e aguardar o momento seguro de cruzar a via.
-Pergunta: Em acidente com vítima, sempre que possível, devemos manter o tráfego fluindo. Para a vítima, a razão mais importante para a manutenção da fluidez do fluxo é: Resposta: possibilitar a chegada mais rápida da equipe de socorro.
-Pergunta: Quando, ao atingir certa velocidade, ocorre trepidação transmitida pelo volante, que condição do veículo deve ser avaliada? Resposta: o balanceamento do conjunto pneus/rodas.
-Pergunta: Em uma via com mais de uma faixa por sentido, o condutor observa um obstáculo, como um buraco, visando evitar acidentes com a possível presença de motociclistas, o condutor deve: Resposta: reduzir a velocidade e sinalizar com antecedência se for necessário mudar de faixa.
-Pergunta: O sistema que tem por função ligar e desligar a força motriz do motor da parte restante da transmissão é o: Resposta: embreagem.
-Pergunta: Para entregar uma carga sem atraso, um condutor está dirigindo a muitas horas seguidas, sem qualquer descanso. Essa sua atitude representa um: Resposta: condição adversa do condutor, que é a fadiga e pode gerar acidentes.
-Pergunta: Diante de um acidente, o condutor que se depara com vítima com pequena hemorragia externa, deve proteger as suas mãos e aplicar a seguinte técnica de primeiros socorros para conter essa hemorragia: Resposta: comprimir a região com um pano limpo.
-Pergunta: Diante da placa de advertência A-9 , o condutor deve adequar a velocidade do veículo, ter atenção, pois a placa indica que há: Resposta: bifurcação da via.
-Pergunta: Diante da placa de regulamentação R-25c  , qual deve ser a interpretação do condutor quanto ao sentido de circulação dos veículos: Resposta: é obrigatório seguir em frente ou à esquerda.
-Pergunta: Em caso de acidente com vítima, o condutor deverá: Resposta: sinalizar a área do acidente, utilizando entre outros: o triângulo, o pisca-alerta e galhos de árvores.
-Pergunta: Diante da placa de regulamentação R-1 , o condutor deve reduzir a velocidade: Resposta: parar e acessar a via com segurança.
-Pergunta: Entre outros fatores, a durabilidade dos pneus também é determinada por: Resposta: conferir regularmente o alinhamento e o balanceamento das rodas.
-Pergunta: Ultrapassar pela direita é uma infração média, a menos que (Art. 199, CTB): Resposta: o veículo da frente esteja na faixa apropriada e dê sinal de que vai entrar à esquerda.
-Pergunta: Nos grandes centros urbanos, os principais causadores da poluição do ar são: Resposta: os veículos automotores e indústrias.
-Pergunta: A baixa calibragem dos pneus: Resposta: reduz sua vida útil.
-Pergunta: De acordo com o Código de Trânsito Brasileiro, comete uma infração de trânsito o condutor que: Resposta: desrespeitar qualquer preceito do CTB, a legislação complementar e as Resoluções do Contran.
-Pergunta: São deveres do condutor defensivo, exceto: Resposta: Não prever situações inesperadas, ficar atento e ser capaz de evitar acidentes.
-Pergunta: Estacionar em desacordo com as posições estabelecidas no Código de Trânsito Brasileiro tem como penalidade (CTB Art. 181, inciso IV): Resposta: multa.
-Pergunta: Os sulcos dos pneus, cuja profundidade mínima é de 1,6 mm, existem para: Resposta: escoar a água em pista molhada e manter o atrito com o pavimento .
-Pergunta: Quanto a placa de regulamentação R-39 , que indica sobre área, via ou faixa, assinale a alternativa correta: Resposta: se destina, exclusivamente, para a circulação de caminhões.
-Pergunta: Ultrapassar outro veículo pelo acostamento, em interseções e passagens de nível, terá como penalidade (Art. 202, incisos I e II do CTB): Resposta: multa.
-Pergunta: Conforme art. 181, CTB, estacionar o veículo nas esquinas e a menos de cinco metros do bordo do alinhamento da via transversal, incorre em infração: Resposta: média.
-Pergunta: Existem atitudes do condutor que são prejudiciais ao meio ambiente, entre elas: Resposta: jogar lixo ou qualquer objeto na rua.
-Pergunta: Diante da placa de regulamentação R-17 , qual deve ser a interpretação do condutor? Resposta: a via tem limitação de peso máximo por eixo de 2 toneladas.
-Pergunta: A distância percorrida pelo veículo do momento em que o condutor tira o pé do acelerador e o coloca sobre o pedal do freio é chamada de: Resposta: distância de reação.
-Pergunta: São condições adversas, em vias pavimentadas, envolvendo riscos que podem contribuir para gerar acidentes, as seguintes caracteristicas: Resposta: presença de óleo e areia na pista.
-Pergunta: Especialmente à noite, ao sinalizar a mudança de direção ao dirigir, essa manobra será prejudicada, gerando risco de colisão com outros veículos,caso estiverem queimadas as luzes de: Resposta: setas indicadoras de direção.
-Pergunta: Transitar pela contramão de direção, nas vias com sinalização de regulamentação de sentido único de circulação, constitui infração de trânsito de que natureza? (Art. 181, XV, CTB) Resposta: média.
-Pergunta: O condutor deve reduzir a velocidade ao visualizar a placa de advertência A-1b pois a frente: Resposta: a via apresenta curva acentuada à direita, o que favorece a ocorrência de acidentes.
-Pergunta: A força motriz é conduzida até as rodas por meio do sistema de: Resposta: Transmissão.
-Pergunta: Qual das condições abaixo contribui para o fenômeno da aquaplanagem? Resposta: frear o veículo sobre poças d'água no intuito de aumentar a aderência entre os pneus e o pavimento da pista.
-Pergunta: A velocidade máxima permitida em rodovias de pista dupla, nas quais não exista sinalização regulamentadora, para automóveis,camionetas e motocicletas, é de: Resposta: 110 km/h.
-Pergunta: Para reter as impurezas do combustível e manter o bom desempenho do veículo, é necessário assegurar regularmente a troca do filtro: Resposta: de combustível.
-Pergunta: Sobre o funciomaneto do veículo, o condutor deve sabe que, o conjunto da embreagem fica situado no sistema de transmissão e está localizado entre: Resposta: o volante do motor e a caixa de mudanças.
+Pergunta: Quais são deveres do condutor defensivo?
+Resposta: Usar sempre o cinto de segurança e os demais equipamentos obrigatórios, manter o automóvel sempre em boas condições de funcionamento e abastecido de combustível e Conhecer o automóvel que está dirigindo e saber usá-lo corretamente.
+
+Pergunta: O condutor deve reduzir a velocidade ao visualizar a placa de advertência A-1b pois a frente?
+Resposta: A via apresenta curva acentuada à direita, o que favorece a ocorrência de acidentes.
+
+Pergunta: São condições próprias das estradas de terra que representam risco e podem contribuir para gerar acidentes:
+Resposta: Piso irregular e pedras que podem ser lançadas pelos pneus.
+
+Pergunta: As placas de identificação de atrativo turístico têm por objetivo:
+Resposta: indicar e orientar os usuários sobre os pontos turísticos da região.
+
+Pergunta: A baixa calibragem dos pneus:
+Resposta: reduz sua vida útil.
+
+Pergunta: Qual atitude o condutor defensivo deve ter quando o sinal luminoso "abrir" para seu veículo e ainda existirem pedestres efetuando a travessia?
+Resposta: aguardar que concluam a travessia.
+
+Pergunta: Entre outros fatores, a durabilidade dos pneus também é determinada por:
+Resposta: conferir regularmente o alinhamento e o balanceamento das rodas.
+
+Pergunta: A placa de advertência A-12, , alerta o condutor para uma situação de risco na via, relacionada a:
+Resposta: intersecção em círculo - rotatória.
+
+Pergunta: A falta de equipamentos obrigatórios do veículo representa uma condição adversa, durante a prestação de auxílio em um acidente de trânsito. O equipamento necessário nessa situação é:
+Resposta:  triângulo de segurança.
+
+Pergunta: Assinale a alternativa correta: Ao regular a velocidade, o condutor deverá observar constantemente as condições físicas da via, do veículo e da carga, as condições meteorológicas e a intensidade do trânsito, obedecendo aos limites máximos de velocidade estabelecidos para a via, além de: I - não obstruir a marcha normal dos demais veículos em circulação sem causa justificada, transitando a uma velocidade anormalmente reduzida; II - sempre que quiser diminuir a velocidade de seu veículo deverá antes certificar-se de que pode fazê-lo sem risco nem inconvenientes para os outros condutores, a não ser que haja perigo iminente; III - indicar, de forma clara, com a antecedência necessária e a sinalização devida, a manobra de redução de velocidade.
+Resposta: Todas estão corretas.
+
+Pergunta: O freio, do tipo ABS, torna mais segura a frenagem, pois:
+Resposta: evita que a roda bloqueie e o veículo derrape.
+
+Pergunta: Estacionar em desacordo com as posições estabelecidas no Código de Trânsito Brasileiro tem como penalidade (CTB Art. 181, inciso IV):
+Resposta: multa.
+
+Pergunta: Os fatores que interferem positivamente para que o trânsito seja humano e seguro são:
+Resposta: educação, habilidades, atenção, cooperação e solidariedade.
+
+Pergunta: A visibilidade do condutor, que exige sua redobrada atenção, é mais reduzida ao dirigir:
+Resposta: à noite, com chuva, garoa ou neblina.
+
+Pergunta: Em um veículo automotor, a redução do atrito entre as peças internas do motor, aumentando seu rendimento, é proporcionada pelo:
+Resposta: óleo do motor.
+
+Pergunta: Conforme art. 181, CTB, estacionar o veículo nas esquinas e a menos de cinco metros do bordo do alinhamento da via transversal, incorre em infração:
+Resposta: média.
+
+Pergunta: Com o objetivo de evitar acidentes, a placa de advertência A-11b alerta o condutor sobre:
+Resposta: a junção com duas vias laterais, a primeira à direita, devido à possibilidade de acesso de veículos na pista.
+
+Pergunta: As placas educativas têm como função:
+Resposta: orientar os usuários da via quanto ao seu comportamento adequado e seguro no trânsito, podendo conter mensagens que reforcem normas gerais de circulação e conduta.
+
+Pergunta: Quanto aos efeitos da poluição sonora. O excesso de ruídos, na medida de intensidade pode ocasionar múltiplos problemas na pessoa, os quais assim podem ser relacionados:
+Resposta: Dores de cabeça.
+
+Pergunta: De acordo com o Código de Trânsito Brasileiro, comete uma infração de trânsito o condutor que:
+Resposta: desrespeitar qualquer preceito do CTB, a legislação complementar e as Resoluções do Contran.
+
+Pergunta: Com a visualização da placa de regulamentação R-7 na via, o condutor deve entender que é proibida a:
+Resposta: ultrapassagem.
+
+Pergunta: Em um veículo automotor, fazem parte do sistema de lubricação do motor, exceto:
+Resposta: Filtro de Ar.
+
+Pergunta: Os sulcos dos pneus, cuja profundidade mínima é de 1,6 mm, existem para:
+Resposta: escoar a água em pista molhada e manter o atrito com o pavimento.
+
+Pergunta: O sistema que tem por função ligar e desligar a força motriz do motor da parte restante da transmissão é o:
+Resposta: embreagem.
+
+Pergunta: Para conversão à esquerda, nas rodovias com acostamento e sem local apropriado para conversão, o condutor:
+Resposta: acessar o acostamento à direita, parar o veículo e aguardar o momento seguro de cruzar a via.
+
+Pergunta: Em acidente com vítima, sempre que possível, devemos manter o tráfego fluindo. Para a vítima, a razão mais importante para a manutenção da fluidez do fluxo é:
+Resposta: possibilitar a chegada mais rápida da equipe de socorro.
+
+Pergunta: Quando, ao atingir certa velocidade, ocorre trepidação transmitida pelo volante, que condição do veículo deve ser avaliada?
+Resposta: o balanceamento do conjunto pneus/rodas.
+
+Pergunta: Em uma via com mais de uma faixa por sentido, o condutor observa um obstáculo, como um buraco, visando evitar acidentes com a possível presença de motociclistas, o condutor deve:
+Resposta: reduzir a velocidade e sinalizar com antecedência se for necessário mudar de faixa.
+
+Pergunta: O sistema que tem por função ligar e desligar a força motriz do motor da parte restante da transmissão é o:
+Resposta: embreagem.
+
+Pergunta: Para entregar uma carga sem atraso, um condutor está dirigindo a muitas horas seguidas, sem qualquer descanso. Essa sua atitude representa um:
+Resposta: condição adversa do condutor, que é a fadiga e pode gerar acidentes.
+
+Pergunta: Diante de um acidente, o condutor que se depara com vítima com pequena hemorragia externa, deve proteger as suas mãos e aplicar a seguinte técnica de primeiros socorros para conter essa hemorragia:
+Resposta: comprimir a região com um pano limpo.
+
+Pergunta: Diante da placa de advertência A-9 , o condutor deve adequar a velocidade do veículo, ter atenção, pois a placa indica que há:
+Resposta: bifurcação da via.
+
+Pergunta: Diante da placa de regulamentação R-25c  , qual deve ser a interpretação do condutor quanto ao sentido de circulação dos veículos:
+Resposta: é obrigatório seguir em frente ou à esquerda.
+
+Pergunta: Em caso de acidente com vítima, o condutor deverá:
+Resposta: sinalizar a área do acidente, utilizando entre outros: o triângulo, o pisca-alerta e galhos de árvores.
+
+Pergunta: Diante da placa de regulamentação R-1 , o condutor deve reduzir a velocidade:
+Resposta: parar e acessar a via com segurança.
+
+Pergunta: Entre outros fatores, a durabilidade dos pneus também é determinada por:
+Resposta: conferir regularmente o alinhamento e o balanceamento das rodas.
+
+Pergunta: Ultrapassar pela direita é uma infração média, a menos que (Art. 199, CTB):
+Resposta: o veículo da frente esteja na faixa apropriada e dê sinal de que vai entrar à esquerda.
+
+Pergunta: Nos grandes centros urbanos, os principais causadores da poluição do ar são:
+Resposta: os veículos automotores e indústrias.
+
+Pergunta: A baixa calibragem dos pneus:
+Resposta: reduz sua vida útil.
+
+Pergunta: De acordo com o Código de Trânsito Brasileiro, comete uma infração de trânsito o condutor que:
+Resposta: desrespeitar qualquer preceito do CTB, a legislação complementar e as Resoluções do Contran.
+
+Pergunta: São deveres do condutor defensivo, exceto:
+Resposta: Não prever situações inesperadas, ficar atento e ser capaz de evitar acidentes.
+
+Pergunta: Estacionar em desacordo com as posições estabelecidas no Código de Trânsito Brasileiro tem como penalidade (CTB Art. 181, inciso IV):
+Resposta: multa.
+
+Pergunta: Os sulcos dos pneus, cuja profundidade mínima é de 1,6 mm, existem para:
+Resposta: escoar a água em pista molhada e manter o atrito com o pavimento .
+
+Pergunta: Quanto a placa de regulamentação R-39 , que indica sobre área, via ou faixa, assinale a alternativa correta:
+Resposta: se destina, exclusivamente, para a circulação de caminhões.
+
+Pergunta: Ultrapassar outro veículo pelo acostamento, em interseções e passagens de nível, terá como penalidade (Art. 202, incisos I e II do CTB):
+Resposta: multa.
+
+Pergunta: Conforme art. 181, CTB, estacionar o veículo nas esquinas e a menos de cinco metros do bordo do alinhamento da via transversal, incorre em infração:
+Resposta: média.
+
+Pergunta: Existem atitudes do condutor que são prejudiciais ao meio ambiente, entre elas:
+Resposta: jogar lixo ou qualquer objeto na rua.
+
+Pergunta: Diante da placa de regulamentação R-17 , qual deve ser a interpretação do condutor?
+Resposta: a via tem limitação de peso máximo por eixo de 2 toneladas.
+
+Pergunta: A distância percorrida pelo veículo do momento em que o condutor tira o pé do acelerador e o coloca sobre o pedal do freio é chamada de:
+Resposta: distância de reação.
+
+Pergunta: São condições adversas, em vias pavimentadas, envolvendo riscos que podem contribuir para gerar acidentes, as seguintes caracteristicas:
+Resposta: presença de óleo e areia na pista.
+
+Pergunta: Especialmente à noite, ao sinalizar a mudança de direção ao dirigir, essa manobra será prejudicada, gerando risco de colisão com outros veículos,caso estiverem queimadas as luzes de:
+Resposta: setas indicadoras de direção.
+
+Pergunta: Transitar pela contramão de direção, nas vias com sinalização de regulamentação de sentido único de circulação, constitui infração de trânsito de que natureza? (Art. 181, XV, CTB)
+Resposta: média.
+
+Pergunta: O condutor deve reduzir a velocidade ao visualizar a placa de advertência A-1b pois a frente:
+Resposta: a via apresenta curva acentuada à direita, o que favorece a ocorrência de acidentes.
+
+Pergunta: A força motriz é conduzida até as rodas por meio do sistema de:
+Resposta: Transmissão.
+
+Pergunta: Qual das condições abaixo contribui para o fenômeno da aquaplanagem?
+Resposta: frear o veículo sobre poças d'água no intuito de aumentar a aderência entre os pneus e o pavimento da pista.
+
+Pergunta: A velocidade máxima permitida em rodovias de pista dupla, nas quais não exista sinalização regulamentadora, para automóveis,camionetas e motocicletas, é de:
+Resposta: 110 km/h.
+
+Pergunta: Para reter as impurezas do combustível e manter o bom desempenho do veículo, é necessário assegurar regularmente a troca do filtro:
+Resposta: de combustível.
+
+Pergunta: Sobre o funciomaneto do veículo, o condutor deve sabe que, o conjunto da embreagem fica situado no sistema de transmissão e está localizado entre:
+Resposta: o volante do motor e a caixa de mudanças.
+
+Pergunta: Qual a idade mínima para se habilitar na categoria “D”:
+Resposta: 21 anos.
+
+Pergunta: O condutor habilitado em mais de uma categoria, deve possuir:
+Resposta: Apenas uma Carteira Nacional de Habilitação – CNH, com registro das categorias em que foi habilitado cumulativamente.
+
+Pergunta:O condutor habilitado, deverá realizar novamente os exames de sanidade física e mental, psicotécnico, legislação de trânsito e direção veicular quando:
+Resposta: Se envolver em acidente de trânsito e que tenha sido o seu causador.
+
+Pergunta: O condutor ao se habilitar na categoria “A” e “C”, só poderá dirigir:
+Resposta: Moto e Caminhão.
+
+Pergunta: A legislação de trânsito é composta de:
+Resposta: Leis, Decretos e Resoluções.
+
+Pergunta: O candidato que vai se habilitar para a categoria “D” deverá realizar o exame de direção veicular em veículo:
+Resposta: Que tenha, no mínimo, 20 (vinte) lugares, sem contar com o do condutor.
+
+Pergunta: Ao candidato à habilitação é proibido a aprendizagem prática de direção veicular:
+Resposta: Nas estradas.
+
+Pergunta: A Permissão para Dirigir ou a Carteira Nacional de Habilitação dá direito ao condutor dirigir:
+Resposta: Veículos automotores para os quais foi habilitado, em todo o território nacional.
+
+Pergunta: A prova de direção veicular somente poderá ser realizada em veículo da categoria pretendida pelo candidato. Para quem vai se habilitar na categoria “C” o veículo deverá:
+Resposta: Ter capacidade para transportar, no mínimo, 6000 (seis mil) quilogramas de carga.
+
+Pergunta: O condutor de veículo automotor poderá portar mais de uma Carteira Nacional de Habilitação?
+Resposta: Não.
+
+Pergunta: A renovação dos exames de sanidade física e mental dos motoristas, será:
+Resposta: De 05 (cinco) em 05 (cinco) anos até completar 65 (sessenta e cinco) anos de idade.
+
+Pergunta: Após completar 65 (sessenta e cinco) anos os condutores de veículo automotores deverão ser submetidos aos exames de sanidade física e mental, para renovação da CNH, nos seguintes períodos:
+Resposta: De 03 (três) em 03 (três) anos.
+
+Pergunta: Os condutores habilitados na categoria A:
+Resposta: Poderão dirigir veículos motorizados de 02 (duas) ou 03 (três) rodas com capacidade qualquer.
+
+Pergunta: A idade mínima para o condutor classificar a habilitação para condução de veículos automotores destinados ao transporte de cargas perigosas é:
+Resposta: 21 anos.
+
+Pergunta: A fotocópia(xerox) da Permissão para Dirigir ou da Carteira Nacional de Habilitação:
+Resposta: Não são válidas para substituir a documentação original e para comprovar o direito do seu portador de dirigir.
+
+Pergunta: A prestação dos exames para a obtenção da Permissão para Dirigir e da Carteira Nacional de Habilitação, só poderá ser requerida pelo candidato que:
+Resposta: Saiba ler, escrever e seja penalmente imputável.
+
+Pergunta: São equipamentos obrigatórios dos veículos automotores dentre outros:
+Resposta: Espelhos retrovisores interno e externo, velocímetro, buzina, limpadores de pára-brisa.
+
+Pergunta: A alteração das características do veículo só poderá ser feita:
+Resposta: Mediante prévia autorização da autoridade competente.
+
+Pergunta: A remoção do veículo, dar-se-á, obrigatoriamente, dentre outras situações, quando: 
+Resposta: Estacionado em desacordo com a regulamentação estabelecida pela autoridade de trânsito.
+
+Pergunta: Significa mudança na característica do veículo:
+Resposta: Mudança de cor e de combustível.
+
+Pergunta: Após vistoriados, registrados e licenciados, os veículos são identificados por:
+Resposta: Placas dianteira e traseira com caracteres iguais ao registro.
+
+Pergunta: O licenciamento anual do veículo, será comprovado mediante a apresentação do seguinte documento:
+Resposta: Certificado de Registro e Licenciamento do Veículo (CRLV).
+
+Pergunta: Em relação ao veículo, o único documento de porte obrigatório, para fins de fiscalização é:
+Resposta: O Certificado de Registro e Licenciamento do Veículo (CRLV).
+
+Pergunta: A inscrição da tara ou lotação deve constar, em local visível:
+Resposta: Nos veículos de transporte de carga e os coletivos.
+
+Pergunta: Os veículos destinados ao transporte coletivo de escolares deverão ser caracterizados por:
+Resposta: Faixa horizontal na cor amarela, com quarenta centímetros (40cm) de largura, à meia altura, na traseira e nas laterais, com a inscrição “ESCOLAR”, em preto.
+
+Pergunta: O veículo automotor de duas ou três rodas, cuja cilindrada não seja maior que 50 cm3, e capaz de desenvolver no máximo a velocidade de 50km/h é:
+Resposta: Ciclomotor.
+
+Pergunta: É proibido o uso de inscrições de caráter publicitário, nos seguintes pontos dos veículos:
+Resposta: No Pára-brisa e parte traseira da carroceria.
+
+Pergunta: Dos equipamentos obrigatórios previstos na legislação de trânsito, não serão exigidos para ciclomotores e motocicletas, dentre outros:
+Resposta: Limpadores de pára-brisa e pala de proteção contra o sol.
+
+Pergunta: Os veículos quanto à tração classificam-se em:
+Resposta: Tração animal, propulsão humana, automotor, elétrico, reboque ou semi-reboque.
+
+Pergunta: Os veículos quanto à espécie classificam-se em:
+Resposta: De passageiros, de carga, misto, de competição, de tração, especial, de coleção.
+
+Pergunta: Os veículos quanto à categoria classificam-se em:
+Resposta: Oficial, representação diplomática, particular, de aluguel e aprendizagem.
+
+Pergunta: Os veículos de carga e de transporte coletivo, para indicação de sua altura e largura deverão estar equipados com:
+Resposta: Duas lâmpadas brancas, foscas ou amarelas na parte dianteira e na parte traseira duas lâmpadas de cor vermelha.
+
+Pergunta: Apenas para ultrapassar e somente pelo espaço necessário para esse fim, o condutor de veículo automotor poderá:
+Resposta: Circular pela contramão.
+
+Pergunta: É proibido a todo condutor de veículo:
+Resposta: Dirigir o veículo sem acionar o limpador de pára-brisa durante a chuva.
+
+Pergunta: É proibido a todo condutor de veículo transitar em marcha-à-ré:
+Resposta: Salvo na distância necessária para pequenas manobras.
+
+Pergunta: É proibido aos condutores de veículos de transporte coletivo:
+Resposta: Dirigir com defeito em qualquer equipamento obrigatório ou com sua falta.
+
+Pergunta: O uso da buzina também é proibido:
+Resposta: Para apressar o pedestre na travessia da via pública.
+
+Pergunta: É proibido ao motorista estacionar o veículo nas esquinas:
+Resposta: A menos de 5 (cinco) metros do bordo do alinhamento da via transversal.
+
+Pergunta: Dirigir com apenas uma das mãos só é permitido quando:
+Resposta: O motorista for fazer sinais de braço ou mudar a marcha de câmbio.
+
+Pergunta: Nas vias providas com iluminação pública, o uso dos faróis altos do veículo, à noite, é:
+Resposta: Proibido, pois nas vias com iluminação pública deve ser usado o farol baixo.
+
+Pergunta: O veículo de 2 ou 3 rodas provido de um motor de combustão interna cuja cilindrada não exceda 50cc (cinqüenta centímetros cúbicos) é:
+Resposta: Ciclomotor.
+
+Pergunta: É proibido a todo condutor de veículo:
+Resposta: Transitar com o veículo com defeito em qualquer dos equipamentos obrigatórios.
+
+Pergunta: Em que horário abaixo é proibido ao motorista o uso da buzina?
+Resposta: Vinte e duas (22) e seis (06) horas.
+
+Pergunta: O condutor que dirigir usando calçado que não se firme nos pés ou que comprometa a utilização dos pedais estará sujeito a:
+Resposta: Infração média e penalidade multa.
+
+Pergunta: Poderá ser aplicada penalidade de cassação da Permissão para Dirigir ou da Carteira Nacional de Habilitação quando o condutor:
+Resposta: Estando com a documentação de habilitação suspensa, for encontrado dirigindo.
+
+Pergunta: É aplicada multa ao condutor que:
+Resposta: Fizer retorno nas curvas, aclives e declives.
+
+Pergunta: A Permissão para Dirigir ou a Carteira Nacional de Habilitação será apreendida e o condutor terá cometido crime de trânsito quando:
+Resposta: Dirigir em estado de embriaguez alcoólica ou sob o efeito de substância tóxica de qualquer natureza, devidamente comprovada.
+
+Pergunta: O recolhimento da Permissão para Dirigir ou da Carteira Nacional de Habilitação ocorrerá também quando o condutor:
+Resposta: Dirigir o veículo de categoria ou espécie para a qual não esteja habilitado ou autorizado.
+
+Pergunta: A remoção do veículo ocorrerá quando o condutor:
+Resposta: Estacionar onde houver guia da calçada (meio-fio) rebaixada para entrada ou saída de veículos.
+
+Pergunta: Os agentes da autoridade de trânsito (policial de trânsito), poderão reter o veículo, até que satisfaça a(s) exigência(s), quando:
+Resposta: O condutor da motocicleta e/ou passageiro não estiverem utilizando o capacete de segurança.
+
+Pergunta: A cassação do documento de habilitação acontecerá quando o condutor:
+Resposta: Entregar a direção do veículo a pessoa não habilitada ou estiver dirigindo com o documento de habilitação apreendido.
+
+Pergunta: O condutor de veículo deve:
+Resposta: Guardar distância de segurança entre o veículo que dirige e o que segue imediatamente à sua frente.
+
+Pergunta: O condutor de veículo comete uma infração de trânsito quando:
+Resposta: Deixa de cumprir qualquer determinação da Legislação de Trânsito.
+
+Pergunta: Transitar com carga excedente e fora das dimensões regulamentares, sem autorização especial, acarretará:
+Resposta: Retenção do veículo e multa.
+
+Pergunta: Fazer uso da luz alta dos faróis em vias com iluminação pública é infração e terá como punição:
+Resposta: Infração leve e penalidade multa.
+
+Pergunta: A Cassação da Permissão para Dirigir ou da Carteira Nacional de Habilitação significa que:
+Resposta: O infrator perderá o direito de dirigir e que, somente, após decorrido 2(dois) anos da cassação poderá requerer sua reabilitação, submetendo-se a todos os exames necessários à nova habilitação.
+
+Pergunta: Não sendo possível identificar o infrator, a responsabilidade pela infração será:
+Resposta: Do proprietário do veículo.
+
+Pergunta: O condutor de veículo será multado quando:
+Resposta: Transportar carga de dimensões excedentes ou que ofereça perigo sem a sinalização adequada.
+
+Pergunta: A autoridade de trânsito compete, de acordo com a infração ocorrida, aplicar as seguintes penalidades:
+Resposta: Advertência por escrito, multa, suspensão do direito de dirigir, apreensão do veículo, cassação da Permissão para Dirigir ou da CNH e freqüência obrigatória em curso de reciclagem.
+
+Pergunta: O estacionamento irregular do veículo na via pública, em desacordo com as regras estabelecidas na legislação de trânsito, acarreta:
+Resposta: Multa variando de gravíssima a leve e remoção do veículo.
+
+Pergunta: O condutor que entregar a direção do veículo a pessoa não habilitada ou que estiver com a Permissão para Dirigir ou a Carteira Nacional de Habilitação apreendida será punido com:
+Resposta: O direito de dirigir cassado, infração gravíssima, multa (cinco vezes) e apreensão do veículo.
+
+Pergunta: O uso de descarga livre ou de silenciadores de explosão do motor insuficientes, ou defeituosos, constitui infração, sujeita à seguinte penalidade:
+Resposta: Multa grave e retenção do veículo para regularização.
+
+Pergunta: O condutor que transitar com velocidade incompatível colocando em risco a segurança estará sujeito a:
+Resposta: Infração gravíssima e penalidade multa.
+
+Pergunta: O condutor que deixar de apresentar à autoridade de trânsito ou seus agentes os documentos exigidos por lei ou regulamento será punido com:
+Resposta: Infração leve, penalidade multa e retenção do veículo até a apresentação dos documentos exigidos.
+
+Pergunta: Os condutores e passageiros de motocicletas que utilizarem esse veículo sem uso do capacete de segurança, serão punidos com:
+Resposta: Infração gravíssima, penalidade multa, recolhimento do documento de Habilitação e suspensão do direito de dirigir.
+
+Pergunta: O veículo que transitar com carga excedente à sua dimensão, sem a devida sinalização, está sujeito a:
+Resposta: Infração grave, penalidade multa e retenção do veículo.
+
+Pergunta: O condutor que não guardar a distância de segurança entre o veículo que dirige e o que segue imediatamente à sua frente receberá a seguinte punição:
+Resposta: Infração grave e penalidade multa.
+
+Pergunta: O condutor que promover ou participar de competições esportivas na via pública, sem autorização, será punido com:
+Resposta: Infração gravíssima, multa (cinco vezes), suspensão da Carteira Nacional de Habilitação e apreensão do veículo.
+
+Pergunta: Transitar com o veículo em mau estado de conservação e segurança é infração que será punida com:
+Resposta: Infração grave, penalidade multa e retenção do veículo para regularização
+
+Pergunta: Fazer retorno, mesmo nos locais permitidos, com prejuízo da livre circulação dos outros veículos ou da segurança é infração punível com:
+Resposta: Infração gravíssima e penalidade multa.
+
+Pergunta: O condutor que transitar com velocidade superior à permitida para a via, será punido com:
+Resposta: Infração variando de grave a gravíssima e penalidade multa.
+
+Pergunta: O condutor que transitar ao lado de outro veículo interrompendo ou perturbando o trânsito será punido com:
+Resposta: Infração média e penalidade multa.
+
+Pergunta: Transitar na contramão, em via devidamente sinalizada, é infração punível com:
+Resposta: Infração gravíssima ou grave e penalidade multa.
+
+Pergunta: Ultrapassar outro veículo em movimento nos cortejos é infração punível com:
+Resposta: Infração leve e penalidade multa.
+
+Pergunta: O condutor que ultrapassar outro veículo nas curvas e aclives será punido com:
+Resposta: Infração gravíssima e penalidade multa.
+
+Pergunta: O condutor que ultrapassar pela contramão outro veículo num cruzamento terá como penalidade:
+Resposta: Infração gravíssima e penalidade multa.
+
+Pergunta: O condutor que desobedecer ao sinal fechado, será punido com:
+Resposta: Infração gravíssima e penalidade multa.78. 
+
+Pergunta: O condutor que desobedecer ao sinal fechado ou a parada obrigatória, prosseguindo na marcha, terá como punição:
+Resposta: Infração gravíssima e penalidade multa.
+
+Pergunta: Usar a buzina, em locais proibidos pela autoridade de trânsito é infração punível com:
+Resposta: Infração leve e penalidade multa.
+
+Pergunta: Usar a buzina para apressar o pedestre na travessia, é infração punível com:
+Resposta: Infração leve e penalidade multa.
+
+Pergunta: O condutor que transitar com os faróis do veículo altos ou desregulados ofuscando a visão dos condutores que estão em sentido contrário, será punido com:
+Resposta: Infração grave, penalidade multa e retenção do veículo para regularização.
+
+Pergunta: A alteração da cor ou outra característica do veículo antes do devido registro será punida com:
+Resposta: Infração grave, penalidade multa e retenção do veículo para regularização.
+
+Pergunta: O motorista que transitar com o veículo derramando na via pública combustíveis, lubrificantes ou qualquer material que esteja transportando ou consumindo será punido com:
+Resposta: Infração gravíssima, penalidade multa e retenção do veículo para regularização.
+
+Pergunta: O condutor que usar descarga livre, bem como silenciadores de explosão do motor defeituosos, será punido com:
+Resposta: Infração grave, penalidade multa e retenção do veículo para regularização.
+
+Pergunta: O condutor que usar indevidamente aparelho de alarme ou que produza sons ou ruídos que perturbem o sossego público será punido com:
+Resposta: Infração Média, penalidade multa, remoção e apreensão do veículo.
+
+Pergunta: Usar a buzina à noite, nas áreas urbanas é infração punível com:
+Resposta: Infração leve e penalidade multa.
+
+Pergunta: O condutor que utilizar o veículo de carga como transporte de passageiro sem que tenha autorização especial fornecida pela autoridade de trânsito será punido com:
+Resposta: Infração gravíssima, penalidade multa, apreensão e remoção do veículo.
+
+Pergunta: O veículo que estiver estacionado nas calçadas e sobre as faixas destinadas a pedestres, será:
+Resposta: Infração grave, penalidade multa e remoção do veículo.
+
+Pergunta: O motorista que estacionar o veículo junto aos pontos de embarque ou desembarque de coletivos, devidamente sinalizados, terá como punição:
+Resposta: Infração média, penalidade multa e remoção do veículo.
+
+Pergunta: O condutor que dirigir veículo com velocidade acima da permitida para a via, será aplicada a seguinte penalidade:
+Resposta: Infração variando de grave a gravíssima e penalidade multa.
+
+Pergunta: O motorista que estacionar o veículo sobre as pistas de rolamento das estradas será punido com:
+Resposta: Infração gravíssima, penalidade multa apreensão e remoção do veículo.
+
+Pergunta: O condutor que estacionar o veículo nos viadutos, pontes e túneis será punido com:
+Resposta: Infração grave, multa e remoção do veículo.
+
+Pergunta: Estacionar o veículo na contramão de direção será punido com:
+Resposta: Infração média, penalidade multa.
+
+Pergunta: O condutor que circular com o veículo tendo a placa sem condições de visibilidade será punido com:
+Resposta: Infração gravíssima, multa, apreensão e remoção do veículo.
+
+Pergunta: O condutor que desobedecer ao sinal vermelho ou à parada obrigatória será punido com:
+Resposta: Infração gravíssima e penalidade multa.
+
+Pergunta: Estacionar ao lado de outro veículo, salvo onde haja permissão é infração punível com:
+Resposta: Infração grave, penalidade multa e remoção do veículo.
+
+Pergunta: Disputar corrida por espírito de emulação é infração punível com:
+Resposta: Infração gravíssima, multa (três vezes), suspensão da Carteira Nacional de Habilitação e apreensão do veículo.
+
+Pergunta: O motorista que estacionar o veículo junto ou sobre hidrantes de incêndio, terá como punição:
+Resposta: Infração média, penalidade multa e remoção do veículo.
+
+Pergunta: Estacionar o veículo em desacordo com a regulamentação será punível com:
+Resposta: Infração leve, penalidade multa e remoção do veículo.
+
+Pergunta: O condutor que estacionar o veículo sobre a área de cruzamento interrompendo o trânsito da via transversal terá como punição além da multa:
+Resposta: Remoção do veículo.

@@ -43,4 +43,42 @@ bot.on("text", async (ctx) => {
   ctx.reply(`Você disse: ${ctx.message.text}`);
 });
 
+//redireicona o audio para a ia de audio e depois chama a ia que responde
+bot.on("voice", async (ctx) => {
+  const fileId = ctx.message.voice.file_id;
+  try {
+    const fileLink = await ctx.telegram.getFileLink(fileId);
+    console.log(`Link do arquivo de áudio: ${fileLink}`);
+
+    // Baixa o arquivo como arraybuffer
+    const fileResponse = await axios.get(fileLink.href, {
+      responseType: "arraybuffer",
+    });
+    const audioBase64 = Buffer.from(fileResponse.data, "binary").toString(
+      "base64"
+    );
+
+    const audioConvertido = await axios.post(
+      "http://localhost:5002/transcrever",
+      {
+        audioBase64,
+      }
+    );
+
+    const res = await axios.post("http://localhost:5001/responder", {
+      pergunta: "Estacionar o veículo na contramão de direção será punido com:",
+    });
+
+    await ctx.reply(
+      res.data?.resposta || "Resposta recebida, mas não entendi o formato."
+    );
+
+    return;
+
+    // ...processa a resposta...
+  } catch (error) {
+    console.error(error);
+  }
+});
+
 bot.launch();
